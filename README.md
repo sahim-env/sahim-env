@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm a Soil, Water and Environmental Science Student 👋
 
-<!--
-**sahim-env/sahim-env** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an undergraduate student in Soil, Water and Environment at the University of Dhaka, Bangladesh.
 
-Here are some ideas to get you started:
+I am developing my skills in geospatial technology, environmental data analysis, and scientific research to better understand environmental challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Climate Change and Environmental Sustainability
+- Land Use and Land Cover Change
+- Soil and Water Resources
+- Urban Environmental Challenges
+
+## Currently Learning
+- QGIS and Geographic Information Systems (GIS)
+- Remote Sensing
+- Python for Data Analysis
+- Excel and Data Visualization
+
+## Current Project
+**Dhaka Urban Environment: Land Cover & Environmental Data Analysis**
+
+A learning project exploring how geospatial tools and environmental data can help investigate urban environmental changes.
+
+## Goals
+- Build reproducible environmental data projects
+- Develop practical GIS and data analysis skills
+- Improve scientific writing and research communication
